@@ -1,3 +1,6 @@
+from math import inf
+MGraph = [[inf for _ in range(7)] for _ in range(7)] # 每一个枚举
+# print(len(MGraph)) # 7
 
 if __name__ == '__main__':
     print("hello world")
